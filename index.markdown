@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "An Overview on Jekyll"
 categories: jekyll update
 ---
